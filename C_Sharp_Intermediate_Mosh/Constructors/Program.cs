@@ -4,9 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C_Sharp_Intermediate_Mosh
+namespace Constructors
 {
-
     class Program
     {
         static void Main(string[] args)

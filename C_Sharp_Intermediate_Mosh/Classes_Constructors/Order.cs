@@ -4,13 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C_Sharp_Intermediate_Mosh
+namespace Classes_Constructors
 {
-
-    class Program
+    class Order
     {
-        static void Main(string[] args)
-        {
-        }
+        public int Id;
+        public string Title;
     }
 }
