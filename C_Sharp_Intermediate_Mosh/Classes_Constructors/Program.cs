@@ -14,7 +14,7 @@ namespace Classes_Constructors
 
             customer.Orders.Add(new Order { Id = 1, Title = "Order 1" });
                                     
-            Console.WriteLine(customer.Id);
+            Console.WriteLine(customer.Id);  
             Console.WriteLine(customer.Name);
             
         }
