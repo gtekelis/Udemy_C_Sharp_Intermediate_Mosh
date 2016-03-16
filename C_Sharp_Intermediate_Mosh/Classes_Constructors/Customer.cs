@@ -25,7 +25,7 @@ namespace Classes_Constructors
         }
 
         public Customer(int id, string name)
-        {
+        { 
             this.Id = id;
             this.Name = name;
         }
